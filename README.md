@@ -3,8 +3,6 @@
 
 > Type a philosopher's name. Get their life, their most famous idea, the strongest case for and against it, and a reasoned verdict on how good a philosopher they were. Every claim links to a source.
 
-Built for Workshop 2 of **Y/CS Catalyst**, *Building Effective Agent Systems*.
-
 ```bash
 streamlit run app.py
 ```
